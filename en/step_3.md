@@ -1,7 +1,12 @@
-## What next?
+## The Teaching Approach project
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+It is important to note that, while the research suggests that this teaching approach may be particularly beneficial for girls, we expect that a wide range of pupils will benefit. When we talk about boys' and girls' attitudes to computing throughout this course, we are basing the discussion on research that has suggested differences on average between them. We recognise that this does not necessarily reflect all pupils' experiences of computing.
 
-![ProjectName project](images/projectname-project.png)
+In the Teaching Approach project, we are asking two key questions. Does linking computing lessons to storytelling in key stage 1:
++ Make computing more accessible to a range of pupils?
++ Improve girls' perception of computing?
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+Click the green button (below right) to go to the next step in this session.
+
+You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session1_GBICi1b).
+You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).

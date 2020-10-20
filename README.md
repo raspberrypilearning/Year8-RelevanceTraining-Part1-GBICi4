@@ -1,11 +1,11 @@
-# RelevanceTraining-Session1-GBICi4
+# KS1StorytellingTraining_Session1_GBICi1bb
 
-![RelevanceTraining-Session1-GBICi4](banner.png)
+![KS1StorytellingTraining_Session1_GBICi1bb](banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/RelevanceTraining-Session1-GBICi4](https://projects.raspberrypi.org/en/projects/RelevanceTraining-Session1-GBICi4)
+Find the project online at [projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session1_GBICi1bb](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session1_GBICi1bb)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/RelevanceTraining-Session1-GBICi4/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/RelevanceTraining-Session1-GBICi4/tree/master/en/solutions).
+For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/KS1StorytellingTraining_Session1_GBICi1bb/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/KS1StorytellingTraining_Session1_GBICi1bb/tree/master/en/solutions).
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
