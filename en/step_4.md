@@ -1,31 +1,39 @@
-##  The 'Storytelling' approach
-There is evidence that gender stereotypes develop early, but little evidence on interventions that target this early development of stereotypes, and none that relate specifically to computing. This pilot intervention focuses on pupils in key stage 1 and builds on evidence that teaching computing through storytelling and story-writing is effective with 11- to 14-year-olds. The trial investigates whether this is also effective for pupils in key stage 1 (5- to 7-year-olds). This pilot will be evaluated, and the results will be used to determine whether the intervention will proceed to a full-scale trial.
+##  The 'Relevance' approach
+There is evidence that gender stereotypes develop early, but little evidence on interventions that target this early development of stereotypes, and none that relate specifically to computing. This pilot intervention focuses on pupils in Year 8 and builds on evidence that teaching computing by relating it to real-world issues is effective with 12- to 13-year-olds.
 
-In the trial, you will use the 'Storytelling' teaching approach, which aims to use narrative to teach computing. Story-writing and digital storytelling are used to introduce computing topics to children when, for instance, teachers use game-based computing activities. Teachers are provided with resources that centre on teaching pupils computing through programming stories.
+In the trial, you will use the 'Relevance' approach, which aims to use real-world issues to teach computing. Identifying real-world issues which can be addressed by an app fora mobile device will be used to introduce computing programming to children when, for instance, teachers may have introduced programming for programming's sake. Teachers are provided with resources that centre on teaching pupils computing through programming to address a real-world issue.
 
-During the 'Storytelling' project, pupils learn to program in [ScratchJr](https://www.scratchjr.org), an age-appropriate programming tool. ScratchJr uses a format that is more similar to writing a story than in the Scratch programming language. As you can see in the picture below, you drag and drop blocks into a horizontal 'storyline' in ScratchJr, so the relationship with reading or writing a story in literacy is clear.
+For the 'Relevance' trial, pupils learn to program in [AppLab](https://code.org/educate/applab){:target="_blank"}, an age-appropriate, block based programming tool where they will create their own app. App Lab is developed in JavaScript, offering pupils the opportunity to program apps in text in the future.
 
-![Scratchjr.png](images/ks1storytelling-ScratchJr.png){:width="400px"}
+Some pupils may have already programmed in a block-based programming such as [Scratch](https://scratch.mit.edu){:target="_blank"}. Block based programming environnments aid pupils' understanding of programming concepts because the programming environnment is visual where pupils select and drag interlocking coloured blocks rather than type syntax-based code.
 
-This is different to the way in which the user stacks code in a vertical format in Scratch, which is closer to text-based programming than storytelling.
+The pictures below compare the Scratch and App Lab programming environments:
 
-![Scratch.png](images/ks1storytelling-Scratch.png){:width="400px"}
+![Scratch.png](images/Year8-Relevance-Scratch.png){:width="400px"}
+![Applab.png](images/Year8-Relevance-AppLab.png){:width="400px"}
 
-The 'Storytelling' teaching approach introduces the fundamental computing concepts of sequence, repetition, and selection. The trial focuses on two strands of storytelling:
-story-writing (structure) and digital storytelling (this includes using animation, graphics, and audio to tell a story).
+The 'Relevance' teaching approach introduces the fundamental computing concepts of sequence, repetition, and selection. The trial focuses on two strands:
++ identifying real-world issues which can be addressed with apps 
++ creating an app in App Lab
 
-**Story-writing** is a means of exploring computer programming. Pupils use these skills to:
-+ Construct a story
+**+identifying real-world issues addressed with apps** is a means of exploring computer programming by relating it to pupils' interests. Pupils develop ttheir skills to:
++ Identify real-world issues
++ Review the content in relevant apps
++ Understand the potential of varied content in app design: images, video, text
++ Understand the importance of user interaction in app design
++ Identify an original idea for an app which addresses a real-world issue
++ Prepare a flowchart to map user interaction for the app as well as identify a sequence for their program
++ Prepare pseudocode to sketch out their program
+
+**creating an app in App Lab**. Pupils' convert their idea into an app:
 + Organise code around programming constructs
-+ Create sequence (an algorithm such as beginning/middle/end)
-+ Use repetition (iteration)
++ Create sequence
++ Use repetition (iteration), if required
 + Use selection
-+ Introduce input and output processes through the use of characters
-+ Solve problems as the program develops
-
-**Digital storytelling** is used as a brief for creating programs. Pupils' programs are converted into digital artefacts through the use of images, text, and motion for interactive animations. Digital storytelling requires pupils to be innovative and structure their ideas around a narrative.
++ Introduce input and output processes
++ Solve problems (debug) as the program develops
 
 Click the green button (below right) to go to the next step in this session.
 
-You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session1_GBICi1b).
-You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
+You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Session1-GBICi4).
+You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/Year8-RelevanceTraining-GBICi4).
