@@ -20,4 +20,4 @@ Sessions 2 and 3 allow you time to explore the resources so that you are fully a
 Click the green button (below right) to go to the next step in this session.
 
 You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Session1-GBICi4).
-You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/Year8-RelevanceTraining-GBICi4).
+You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
