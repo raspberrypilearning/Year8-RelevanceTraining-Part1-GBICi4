@@ -1,9 +1,9 @@
 ##  The 'Relevance' approach
 There is evidence that gender stereotypes develop early, but little evidence on interventions that target this early development of stereotypes, and none that relate specifically to computing. This pilot intervention focuses on pupils in Year 8 and builds on evidence that teaching computing by relating it to real-world issues is effective with 12- to 13-year-olds.
 
-In the trial, you will use the 'Relevance' approach, which aims to use real-world issues to teach computing. Identifying real-world issues which can be addressed by an app fora mobile device will be used to introduce computing programming to children when, for instance, teachers may have introduced programming for programming's sake. Teachers are provided with resources that centre on teaching pupils computing through programming to address a real-world issue.
+In the trial, you will use the 'Relevance' approach, which aims to engage pupils in real-world issues to teach computing. Pupils will identify real-world issues which can be addressed by creating an app for a mobile device when, for instance, teachers may have introduced programming for programming's sake. Teachers are provided with resources that centre on teaching pupils computing by address a real-world issue.
 
-For the 'Relevance' trial, pupils learn to program in [AppLab](https://code.org/educate/applab){:target="_blank"}, an age-appropriate, block based programming tool where they will create their own app. App Lab is developed in JavaScript, offering pupils the opportunity to program apps in text in the future.
+For the 'Relevance' trial, pupils learn to program in [AppLab](https://code.org/educate/applab){:target="_blank"}, an age-appropriate, block based programming tool where they will create their own app. App Lab is developed in JavaScript, offering pupils the opportunity to go on to text-based programming in the future.
 
 Some pupils may have already programmed in a block-based programming such as [Scratch](https://scratch.mit.edu){:target="_blank"}. Block based programming environnments aid pupils' understanding of programming concepts because the programming environnment is visual where pupils select and drag interlocking coloured blocks rather than type syntax-based code.
 
@@ -12,11 +12,11 @@ The pictures below compare the Scratch and App Lab programming environments:
 ![Scratch.png](images/Year8-Relevance-Scratch.png){:width="400px"}
 ![Applab.png](images/Year8-Relevance-AppLab.png){:width="400px"}
 
-The 'Relevance' teaching approach introduces the fundamental computing concepts of sequence, repetition, and selection. The trial focuses on two strands:
+The 'Relevance' intervention introduces the fundamental computing concepts of sequence, repetition, and selection. The trial focuses on two strands:
 + identifying real-world issues which can be addressed with apps 
 + creating an app in App Lab
 
-**+identifying real-world issues addressed with apps** is a means of exploring computer programming by relating it to pupils' interests. Pupils develop ttheir skills to:
+**+identifying real-world issues addressed with apps** is a means of exploring computer programming by relating it to pupils' interests. Pupils develop their skills to:
 + Identify real-world issues
 + Review the content in relevant apps
 + Understand the potential of varied content in app design: images, video, text
@@ -25,7 +25,7 @@ The 'Relevance' teaching approach introduces the fundamental computing concepts 
 + Prepare a flowchart to map user interaction for the app as well as identify a sequence for their program
 + Prepare pseudocode to sketch out their program
 
-**creating an app in App Lab**. Pupils' convert their idea into an app:
+**creating an app in App Lab**. Pupils' convert their idea by programming an app. They:
 + Organise code around programming constructs
 + Create sequence
 + Use repetition (iteration), if required
