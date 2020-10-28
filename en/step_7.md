@@ -1,6 +1,6 @@
 ## Additional information and guidance
 
-The [Project guide](https://ncce.io/k2zQga) gives you all the information you need to take part in the trial and gives you a written outline of all the steps that have been covered in this session. This document was posted/emailed to your school when you signed up to this trial.
+The [Project guide](LINK NEEDED) gives you all the information you need to take part in the trial and gives you a written outline of all the steps that have been covered in this session. This document was posted/emailed to your school when you signed up to this trial.
 
 A reminder of your next steps:
 + Ensure that you have sent out the information letters regarding data collection to parents/carers before you begin the trial
