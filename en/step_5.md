@@ -1,4 +1,4 @@
-## Why would storytelling be good for girls?
+## Why would making learning relevant be good for girls?
 
 The premise of the 'Storytelling' teaching approach is that the way in which computing is taught may not always match the ways in which girls prefer to learn, or their interests.
 When boys and girls have similar experience of programming, they show equal interest in it as an activity. However, boys are more likely to spend their time programming and therefore increase their level of experience and expertise more than girls ([Bruckman et al., 2002](https://repository.isls.org/bitstream/1/3771/1/119-127.pdf)).
