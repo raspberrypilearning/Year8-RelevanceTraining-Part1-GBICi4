@@ -1,5 +1,5 @@
 ## Summary of Session 1
-In this session, you have focused on the research background of storytelling and covered some key practical issues of implementing the trial in the classroom.
+In this session, you have focused on the research background of the 'Storytelling' teaching approach and covered some key practical issues of implementing the trial in the classroom.
  
 In the next session, you will be introduced to the 'Storytelling' resources, where you can begin to explore the lesson plans, presentation slides, and other class material for Unit 1 – 'Story-writing' and Unit 2 – 'Digital storytelling'. 
 
