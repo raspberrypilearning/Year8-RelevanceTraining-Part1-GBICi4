@@ -1,7 +1,7 @@
-##  The 'Relevance' approach
+##  The 'Relevance' intervention
 There is evidence that gender stereotypes develop early, but little evidence on interventions that target this early development of stereotypes, and none that relate specifically to computing. This pilot intervention focuses on pupils in Year 8 and builds on evidence that teaching computing by relating it to real-world issues is effective with 12- to 13-year-olds.
 
-In the trial, you will use the 'Relevance' approach, which aims to engage pupils in real-world issues to teach computing. Pupils will identify real-world issues which can be addressed by creating an app for a mobile device when, for instance, teachers may have introduced programming for programming's sake. Teachers are provided with resources that centre on teaching pupils computing by address a real-world issue.
+In the trial, you will use the 'Relevance' intervention, which aims to engage pupils in real-world issues to teach computing. Pupils will identify real-world issues which can be addressed by creating an app for a mobile device when, for instance, teachers may have introduced programming for programming's sake. Teachers are provided with resources that centre on teaching pupils computing by address a real-world issue.
 
 For the 'Relevance' trial, pupils learn to program in [AppLab](https://code.org/educate/applab){:target="_blank"}, an age-appropriate, block based programming tool where they will create their own app. App Lab is developed in JavaScript, offering pupils the opportunity to go on to text-based programming in the future.
 
