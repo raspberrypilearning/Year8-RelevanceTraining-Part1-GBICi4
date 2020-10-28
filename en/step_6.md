@@ -7,13 +7,13 @@ The data collected for the trial will be pupils' attitudes to computing before a
 It is really important that both the pre- and post-surveys are completed, because this is how we will measure the effectiveness of the teaching approach. 
 
 **MAY NEED TO CHANGE BELOW IN BOLD
-Pupils will need to complete the pre- and post-surveys online. Each pupil will need to complete the survey individually, so they will need their own computer and/or tablet to work on. A link to the survey is given in the [Project guide](LINK) and also in the [Units overview](LINK).**
+Pupils will need to complete the pre- and post-surveys online. Each pupil will need to complete the survey individually, so they will need their own computer and/or tablet to work on. A link to the survey is given in the [Project guide](LINK NEEDED) and also in the [Units overview](LINK NEEDED).**
 
 **You may need to take some time to read the questions out for pupils who have difficulty reading them independently, but please ensure that pupils answer them on their own, in their own words. Try not to lead pupils to a particular response while helping them to understand the questions.**
 
 **Survey questions are answered with reference to a 4-point Likert scale ranging from 1 = Strongly disagree to 4 = Strongly agree and are related to pupils' attitudes and engagement with computing.**
 
-**[Example of survey](LINK)**
+**[Example of survey](LINK NEEDED)**
 
 You will need to assign lesson time in Lesson 1 to complete the pre-survey. After at the end of the final lesson (Lesson 12), you will also need to allocate time to complete the post-survey.
 
