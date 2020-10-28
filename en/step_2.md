@@ -15,22 +15,23 @@ The research is made up of several randomised control trials. Each trial investi
 The trials focus on:
 + Informal learning (Year 6 in Code Clubs and Year 8 completing the Apps for Good programme): the intervention highlights the links between what pupils learn in informal computing settings and more formal computing education
 + Belonging (Year 5): the intervention targets pupils' sense of belonging in computing by increasing parent understanding of computing education and careers, and introducing role models
-+ Relevance (Year 8): the intervention focuses on using computing and technology to solve real-world problems
 + Teaching approach (Years 2, 4, 6, and 8): the intervention focuses on approaches to teaching computing that may engage more girls in computing
++ Relevance (Year 8): the intervention focuses on using computing and technology to address real-world problems
 
-You are taking part in the Teaching Approach trial, in which we are evaluating how well approaches that have successfully engaged more girls in other disciplines work in computing. The trial as a whole will include Years 2, 4, 6 and 8, although this course is for teachers working with pupils in key stage 1.
+You are taking part in the Relevance trial, in which we are evaluating how relating learning to real-world issues successfully engages more girls in computing. The trial as a whole will include Years 8.
 
 The resources have been produced by the Raspberry Pi Foundation, and you can contact us throughout the trial if you have any queries. The evaluation of the trial is being conducted by the Behavioural Insights Team, and they will contact you during the trial to collect data. More information about all of the processes and points of contact will be provided throughout the training sessions.
 
 **The GBIC team at the Raspberry Pi Foundation**
-At the Raspberry Pi Foundation, we are working on the GBIC programme in a number of ways. We are recruiting for all of the trials, and you will receive communications about your participation from Katharine Childs. Katharine is your main point of contact for any questions you may have about the trial and you can contact her at [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org). Hayley Leonard is responsible for the day-to-day management of the trial, with programme management and implementation led by Sue Sentance, Oliver Quinlan, and Jenny Laidlaw. The resources that you receive for the trial have been developed and produced by Emma Posey, with support from Rik Cross and other colleagues working on educational resources across the Foundation.
+At the Raspberry Pi Foundation, we are working on the GBIC programme in a number of ways. We are recruiting for all of the trials, and you will receive communications about your participation from Katharine Childs. Katharine is your main point of contact for any questions you may have about the trial and you can contact her at [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org). Hayley Leonard is responsible for the day-to-day management of the trial, with programme management and implementation led by Sue Sentance, Oliver Quinlan, and Jenny Laidlaw. The resources that you receive for the trial have been developed and produced by [Apps for Good](https://www.appsforgood.org){:target="_blank"}, with support from Emma Posey who works on educational resources across the Foundation.
 
 ![RPF GBIC team](images/GBICTeam.png)
+![AfG Relevance team](images/GBICTeam.png)
 
 **Pause and reflect**
 What are your experiences of gender balance in computing in your classroom? Do you find that there is a difference in boys' and girls' engagement with computing or their attitudes towards it?
 
 Click the green button (below right) to go to the next step in this session.
 
-You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session1_GBICi1b).
-You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
+You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Session1-GBICi4).
+You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/Year8-RelevanceTraining-GBICi4).
