@@ -13,10 +13,10 @@ The pictures below compare the Scratch and App Lab programming environments:
 ![Applab.png](images/Year8-Relevance-AppLab.png){:width="400px"}
 
 The 'Relevance' intervention introduces the fundamental computing concepts of sequence, repetition, and selection. The trial focuses on two strands:
-+ identifying real-world issues which can be addressed with apps 
-+ creating an app in App Lab
+1. Identifying real-world issues which can be addressed with apps 
+2. Programming an app in App Lab
 
-**+identifying real-world issues addressed with apps** is a means of exploring computer programming by relating it to pupils' interests. Pupils develop their skills to:
+**1. Identifying real-world issues addressed with apps** is a means of exploring computer programming by relating it to pupils' interests. Pupils develop their skills to:
 + Identify real-world issues
 + Review the content in relevant apps
 + Understand the potential of varied content in app design: images, video, text
@@ -25,7 +25,7 @@ The 'Relevance' intervention introduces the fundamental computing concepts of se
 + Prepare a flowchart to map user interaction for the app as well as identify a sequence for their program
 + Prepare pseudocode to sketch out their program
 
-**creating an app in App Lab**. Pupils' convert their idea by programming an app. They:
+**2. Programming an app in App Lab**. Pupils' convert their idea by programming an app. They:
 + Organise code around programming constructs
 + Create sequence
 + Use repetition (iteration), if required
