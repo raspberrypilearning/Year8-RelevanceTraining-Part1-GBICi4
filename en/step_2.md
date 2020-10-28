@@ -22,11 +22,17 @@ You are taking part in the Relevance trial, in which we are evaluating how relat
 
 The resources have been produced by the Raspberry Pi Foundation, and you can contact us throughout the trial if you have any queries. The evaluation of the trial is being conducted by the Behavioural Insights Team, and they will contact you during the trial to collect data. More information about all of the processes and points of contact will be provided throughout the training sessions.
 
+**The Relevance team**
+For the Relevance trial, the Raspberry Pi Foundation are working in partnership with [Apps for Good](https://www.appsforgood.org){:target="_blank"} who have developed and produced all the resources for this trial. The recruitment and online training is provided by the Raspberry Pi Foundation.
+
+**The GBIC team at Apps for Good**
+
+![AfG Relevance team](images/GBICTeam.png)
+
 **The GBIC team at the Raspberry Pi Foundation**
-At the Raspberry Pi Foundation, we are working on the GBIC programme in a number of ways. We are recruiting for all of the trials, and you will receive communications about your participation from Katharine Childs. Katharine is your main point of contact for any questions you may have about the trial and you can contact her at [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org). Hayley Leonard is responsible for the day-to-day management of the trial, with programme management and implementation led by Sue Sentance, Oliver Quinlan, and Jenny Laidlaw. The resources that you receive for the trial have been developed and produced by [Apps for Good](https://www.appsforgood.org){:target="_blank"}, with support from Emma Posey who works on educational resources across the Foundation.
+The Raspberry Pi Foundation are recruiting for all of the trials, and you will receive communications about your participation from Katharine Childs. Katharine is your main point of contact for any questions you may have about the trial and you can contact her at [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org). Hayley Leonard is responsible for the day-to-day management of the trial, with programme management and implementation led by Sue Sentance, Oliver Quinlan, and Jenny Laidlaw. The online training provision for the trial has been created by Emma Posey who works on educational resources across the Raspberry Pi Foundation.
 
 ![RPF GBIC team](images/GBICTeam.png)
-![AfG Relevance team](images/GBICTeam.png)
 
 **Pause and reflect**
 What are your experiences of gender balance in computing in your classroom? Do you find that there is a difference in boys' and girls' engagement with computing or their attitudes towards it?
