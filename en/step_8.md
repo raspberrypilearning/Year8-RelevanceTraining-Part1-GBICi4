@@ -5,6 +5,6 @@ In the next session, you will be introduced to the 'Relevance' resources, where 
 
 You can access the [next session (Session 2) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Session2-GBICi4).
 
-You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/Year8-RelevanceTraining-GBICi4).
+You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
 
 **Note: Please do not click the green 'What's next?' button (below right) as this link is not relevant to this training course.**
