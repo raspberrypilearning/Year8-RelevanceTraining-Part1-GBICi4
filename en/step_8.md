@@ -1,7 +1,7 @@
 ## Summary of Session 1
 In this session, you have focused on the research background of the 'Relevance' intervention and covered some key practical issues of implementing the trial in the classroom.
  
-In the next session, you will be introduced to the 'Relevance' resources, where you can begin to explore the lesson plans, presentation slides, and other class material. 
+In the next session, you will be introduced to the 'Relevance' resources, where you can begin to explore the Lesson Primer, Teacher Slides, and other class material. 
 
 You can access the [next session (Session 2) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Session2-GBICi4).
 
