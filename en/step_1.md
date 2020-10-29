@@ -6,10 +6,9 @@ The online course is split into three sessions. You can access the sessions at d
  
 The 'Introduction to Relevance' webinar was based on the information in this session, Session 1. If you attended the webinar, you may wish to skip to Session 2, or you can revisit the information by working through this session.
  
-If you did not attend the webinar, you can watch the recording or work your way through this session to ensure that you understand the background and emphasis of the trial. If you would like to watch the recording, please see the video and slide deck below:
+If you did not attend the webinar, you can watch the recording or work your way through this session to ensure that you understand the background and emphasis of the trial. If you would like to watch the recording, please see the video below. Click the following link to access the [slide deck](https://ncce.io/GGlm79):
 
 ![Embedded video of Webinar event](images/y8relevance-WebinarIntroEvent.gif)
-![Embedded slide deck](images/y8relevance-WebinarIntroSlideDeck.gif)
 
 ### Session content
 
