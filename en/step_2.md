@@ -6,7 +6,7 @@ It is part of the National Centre for Computing Education (NCCE), which is deliv
 
 The NCCE's vision is for every child in every school in England to have a world-leading computing education. We provide high-quality support for the teaching of computing in schools and colleges, from key stage 1 through to A level. Our extensive range of training, resources, and support covers elements of the curriculum at every key stage, catering for all levels of subject knowledge and experience.
 
-![NCCE Images](images/NCCEImage.png)
+![NCCE Images](images/NCCEImage.png){:width="400px"}
 
 The Gender Balance in Computing programme of research is the largest national research effort to tackle gender balance in computing to date. Trials began in 2019 and will run to 2022 in key stages 1 to 4. By the end of 2022, more than 15,000 students and 550 schools will be involved in the programme.
 
@@ -28,7 +28,7 @@ For the Relevance trial, the Raspberry Pi Foundation are working in partnership 
 **The GBIC team at Apps for Good**
 The Apps for Good team are responsible for the teaching resources. Programme management  and implementation is led by Heather Picov and Natalie Moore. The teaching resources for the trial have been created by Donna Hay who works on educational resources across Apps for Good.
 
-![AfG Relevance team](images/relevance-AfGTeam.png)
+![AfG Relevance team](images/relevance-AfGTeam.png){:width="400px"}
 
 **The GBIC team at the Raspberry Pi Foundation**
 The Raspberry Pi Foundation are recruiting for all of the trials, and you will receive communications about your participation from Katharine Childs. Katharine is your main point of contact for any questions you may have about the trial and you can contact her at [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org). Hayley Leonard is responsible for the day-to-day management of the trial, with programme management and implementation led by Sue Sentance, Oliver Quinlan, and Jenny Laidlaw. The online training resources and provision for the trial has been created by Emma Posey who works on educational resources across the Raspberry Pi Foundation.
