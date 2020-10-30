@@ -35,8 +35,12 @@ The Raspberry Pi Foundation are recruiting for all of the trials, and you will r
 
 ![RPF GBIC team](images/GBICTeam.png)
 
+--- task ---
+
 **Pause and reflect**
 What are your experiences of gender balance in computing in your classroom? Do you find that there is a difference in boys' and girls' engagement with computing or their attitudes towards it?
+
+--- /task ---
 
 Click the green button (below right) to go to the next step in this session.
 
