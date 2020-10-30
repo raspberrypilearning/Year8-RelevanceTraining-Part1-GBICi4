@@ -8,7 +8,7 @@ The project guide also outlines how to explain the data collection to your stude
  
 It is really important that both the pre- and post-surveys are completed, because this is how we will measure the effectiveness of the Relevance intervention. 
 
-Students will need to complete the pre- and post-surveys online. Each student will need to complete the survey individually, so they will need their own computer and/or tablet to work on. A link to the survey is given in the [Project guide](LINK NEEDED) and also in the [Lesson Wireframe](LINK NEEDED).
+Students will need to complete the pre- and post-surveys online. Each student will need to complete the survey individually, so they will need their own computer and/or tablet to work on. A link to the survey is given in the [Project guide](LINK NEEDED) and also in the [Lesson Wireframe](https://ncce.io/4PM6um).
 
 You may need to take some time to read the questions out for students who have difficulty reading them independently, but please ensure that students answer them on their own, in their own words. Try not to lead students to a particular response while helping them to understand the questions.
 
