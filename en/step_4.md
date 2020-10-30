@@ -26,6 +26,7 @@ The 'Relevance' intervention introduces fundamental computing concepts. The tria
 + Introduce input and output processes
 + Solve problems (debug) as the program develops
 
+You will have the chance to familiarise yourself with the programming environment in Part 3 of this online course.
 ---  /task ---
 
 ---  task ---
