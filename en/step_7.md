@@ -5,10 +5,9 @@ The [Project guide](LINK NEEDED) gives you all the information you need to take 
 ---  task  ---
 
 A reminder of your next steps:
-+ Ensure that you have sent out the information letters regarding data collection to parents/carers before you begin the trial
++ Familiarise yourself with the trial resources by undertaking the tasks outlined in Parts 2 and 3
 + Read through the Project guide
-+ Familiarise yourself with the trial resources and prepare for the lessons
-+ Undertake the tasks outlined in the next two training - Parts 2 and3
++ Ensure that you have sent out the information letters regarding data collection to parents/carers before you begin the trial
 + Get in touch with us if you have any queries at any time before, during, or after the trial by emailing the Gender Balance in Computing research team at [genderresearch@raspberrypi.org](genderresearch@raspberrypi.org).
 
 ---  /task  ---
