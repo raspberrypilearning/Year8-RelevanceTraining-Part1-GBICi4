@@ -1,4 +1,4 @@
-##  The 'Relevance' intervention
+##  The Relevance intervention
 There is evidence that gender stereotypes develop early, but little evidence on interventions that target this early development of stereotypes, and none that relate specifically to computing. This pilot intervention focuses on students in Year 8 and builds on evidence that linking learning to everyday life can help student engagement.
 
 In the Relevance trial, you will support students to identify real-world issues and produce an app that can address their chosen problem. This will develop a number of technical skills within a more practical context, which will help to link computing to everyday life.
