@@ -1,6 +1,6 @@
 ## Additional information and guidance
 
-The [Project guide](LINK NEEDED) gives you all the information you need to take part in the trial and gives you a written outline of all the keys steps that have been covered in this online course. This document was posted/emailed to your school when you signed up to this trial.
+The [Project guide](https://ncce.io/xiv8pO){:target="_blank"} gives you all the information you need to take part in the trial and gives you a written outline of all the keys steps that have been covered in this online course. This document was posted/emailed to your school when you signed up to this trial.
 
 ---  task  ---
 
