@@ -37,8 +37,8 @@ Some students may have already programmed in a block-based programming such as [
 
 The pictures below compare the Scratch and App Lab programming environments:
 
-![Scratch.png](images/Year8-Relevance-Scratch.png){:width="400px"}
-![Applab.png](images/Year8-Relevance-AppLab.png){:width="400px"}
+![Scratch.png](images/relevance-Scratch.png){:width="400px"}
+![Applab.png](images/relevance-AppLab.png){:width="400px"}
 
 ---  /task ---
 
