@@ -15,7 +15,7 @@ A reminder of your next steps:
 
 We are extremely excited to start the trial and really appreciate your support for the Gender Balance in Computing programme!
 
-Click the green button (below right) to go to the next step in Part1 1.
+Click the green button (below right) to go to the next step in Part 1.
 
 You can go back to the [list of contents for this part (Part 1) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part1-GBICi4).
 You can access the [menu for Parts 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
