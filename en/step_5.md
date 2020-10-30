@@ -1,21 +1,22 @@
-## Why would making learning relevant be good for girls?
+## Why would girls benefit from making computing relevant to them?
 
-The premise of the 'Relevance' intervention is that the way in which computing is taught may not always match the ways in which girls prefer to learn, or their interests.
+The premise of the Relevance pilot trial is that the way in which computing is taught may not always match the ways in which girls prefer to learn, or their interests. It can often be seen as quite an abstract subject.
 
-When boys and girls have similar experience of programming, they show equal interest in it as an activity. However, boys are more likely to spend their time programming and therefore increase their level of experience and expertise more than girls ([Bruckman et al., 2002](https://repository.isls.org/bitstream/1/3771/1/119-127.pdf)).
+Previous research in science has shown that high-school students were more interested and achieved better grades when they were encouraged to understand the practical applications of the subject and its relevance for their own lives (Hulleman & Harackiewicz, 2009).
 
-Girls often have higher self-concept (or belief in their own abilities) in relation to literacy than maths or science subjects, and higher self-concept is an important factor in choosing particular subjects or careers ([Eccles et al., 1993](https://www.jstor.org/stable/pdf/1131221.pdf)). Linking computing to another subject in which they may feel more comfortable and have more experience may increase their interest and the time that they spend programming.
+This focus on practicality and use of a subject can be seen in the computing qualifications that female pupils in the UK tend to choose. Female pupils are better represented in computing subjects that are viewed as more practical than computer science, such as those involving creative digital media (Kemp et al., 2017).
 
-**HAYLEY**
-Previous research using relevance with secondary school–aged children has shown: 
-+ Encouraging girls to program animated stories increased motivation to engage in programming and to persist with debugging when something went wrong ([Kelleher et al., 2007](https://dl.acm.org/doi/abs/10.1145/1240624.1240844))
-+ Using a storyboard template to plan the animation was useful to help solve problems in the code and to encourage girls to work out a solution to complete their stories ([Burke & Kafai, 2010](https://dl.acm.org/doi/abs/10.1145/1810543.1810611))
-**HAYLEY**
+**Solving problems and achieving goals**
+Part of being a ‘practical’ subject involves showing that computing can help to solve problems that are important to female pupils, and that it can help them to achieve their goals:
++ Research in the United States has suggested that female undergraduates are more likely to have goals related to helping others compared to male computing students, and that they do not always recognise the opportunities computer science affords to meet these goals (Lewis et al., 2019).
++ Increasing the relevance of computing to students’ lives has been shown to improve engagement of female undergraduates, producing a gender balance in the courses taken and resulting in improved retention of students over time (Guzdial & Tew, 2006).
+
+This GBIC pilot study is the first research to focus on increasing relevance of computing through solving real world problems in secondary-aged pupils.
 
 ---  task ---
 
 **Pause and reflect**
-Do you notice differences in how interested female and male students are in computing, or how much experience they have outside of school? Have you noticed differences in the ways in which female and male students use computers or computing lessons? 
+Do you notice differences in how interested female and male pupils are in computing? Have you noticed that female and male pupils use computers or computing lessons in different ways? 
 
 ---  /task ---
 
