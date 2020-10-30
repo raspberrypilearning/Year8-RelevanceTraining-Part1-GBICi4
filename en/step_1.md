@@ -18,9 +18,9 @@ Click the following link to access the [slide deck](https://ncce.io/GGlm79).
 
 ### Part 1 content
 
-Part 1 focuses on some of the research used as the basis for the trial, so that you can better understand why introducing a real-world focus in your lesson could affect the gender balance in computing in your school. The 'Relevance' intervention and the research behind it will be introduced, including why making learning relevant is thought to be engaging for girls. You will also consider some of the practicalities of implementing relevancy in your classroom.
+Part 1 focuses on some of the research used as the basis for the trial, so that you can better understand why introducing a real-world focus in your lesson could affect the gender balance in computing in your school. The 'Relevance' intervention and the research behind it will be introduced, including why making learning relevant is thought to be engaging for girls. You will also consider some of the practicalities of implementing relevance in your classroom.
 
-Parts 2 and 3 allow you time to explore the resources so that you are fully at ease with the content before the trial begins. These parts of the online  training course also include some hands-on development activities for you to complete in order to further your understanding of the resources and App Lab. You will need to register your completion of the tasks, as they form part of your engagement in the trial.
+Parts 2 and 3 allow you time to explore the resources so that you are fully at ease with the content before the trial begins. These parts of the online training course also include some hands-on development activities for you to complete in order to further your understanding of the resources and App Lab. You will need to register your completion of the tasks, as they form part of your engagement in the trial.
 
 Click the green button (below right) to go to the next step in Part 1.
 
