@@ -5,19 +5,6 @@ In the Relevance trial, you will support students to identify real-world issues 
 
 ---  task ---
 
-For the 'Relevance' trial, students learn to program in [AppLab](https://code.org/educate/applab){:target="_blank"}, an age-appropriate, block-based programming tool where they will create their own app. App Lab is developed in JavaScript, offering students the opportunity to go on to text-based programming in the future.
-
-Some students may have already programmed in a block-based programming such as [Scratch](https://scratch.mit.edu){:target="_blank"}. Block based programming environnments aid students' understanding of programming concepts because the programming environnment is visual. Students select and drag interlocking coloured blocks rather than type syntax-based code.
-
-The pictures below compare the Scratch and App Lab programming environments:
-
-![Scratch.png](images/Year8-Relevance-Scratch.png){:width="400px"}
-![Applab.png](images/Year8-Relevance-AppLab.png){:width="400px"}
-
----  /task ---
-
----  task ---
-
 The 'Relevance' intervention introduces fundamental computing concepts. The trial focuses on two strands:
 1. Identifying real-world issues which can be addressed with apps 
 2. Programming an app in App Lab
@@ -38,6 +25,19 @@ The 'Relevance' intervention introduces fundamental computing concepts. The tria
 + Use selection
 + Introduce input and output processes
 + Solve problems (debug) as the program develops
+
+---  /task ---
+
+---  task ---
+
+For the 'Relevance' trial, students learn to program in [AppLab](https://code.org/educate/applab){:target="_blank"}, an age-appropriate, block-based programming tool where they will create their own app. App Lab is developed in JavaScript, offering students the opportunity to go on to text-based programming in the future.
+
+Some students may have already programmed in a block-based programming such as [Scratch](https://scratch.mit.edu){:target="_blank"}. Block based programming environnments aid students' understanding of programming concepts because the programming environnment is visual. Students select and drag interlocking coloured blocks rather than type syntax-based code.
+
+The pictures below compare the Scratch and App Lab programming environments:
+
+![Scratch.png](images/Year8-Relevance-Scratch.png){:width="400px"}
+![Applab.png](images/Year8-Relevance-AppLab.png){:width="400px"}
 
 ---  /task ---
 
