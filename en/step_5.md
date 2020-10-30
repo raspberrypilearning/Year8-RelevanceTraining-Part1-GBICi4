@@ -12,10 +12,14 @@ Previous research using relevance with secondary school–aged children has show
 + Using a storyboard template to plan the animation was useful to help solve problems in the code and to encourage girls to work out a solution to complete their stories ([Burke & Kafai, 2010](https://dl.acm.org/doi/abs/10.1145/1810543.1810611))
 **HAYLEY**
 
+---  task ---
+
 **Pause and reflect**
-Do you notice differences in how interested female and male pupils are in computing, or how much experience they have outside of school? Have you noticed differences in the ways in which female and male pupils use computers or computing lessons? 
+Do you notice differences in how interested female and male students are in computing, or how much experience they have outside of school? Have you noticed differences in the ways in which female and male students use computers or computing lessons? 
 
-Click the green button (below right) to go to the next step in this session.
+---  /task ---
 
-You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part1-GBICi4).
-You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
+Click the green button (below right) to go to the next step in Part 1.
+
+You can go back to the [list of contents for this part (Part 1) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part1-GBICi4).
+You can access the [menu for Partts 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
