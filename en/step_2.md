@@ -20,7 +20,7 @@ The trials focus on:
 
 You are taking part in the Relevance trial, in which we are evaluating how relating learning to real-world issues successfully engages more girls in computing. The trial as a whole will include Years 8.
 
-The resources have been produced by the Raspberry Pi Foundation, and you can contact us throughout the trial if you have any queries. The evaluation of the trial is being conducted by the Behavioural Insights Team, and they will contact you during the trial to collect data. More information about all of the processes and points of contact will be provided throughout the training sessions.
+The resources have been produced by the Raspberry Pi Foundation, and you can contact us throughout the trial if you have any queries. The evaluation of the trial is being conducted by the Behavioural Insights Team, and they will contact you during the trial to collect data. More information about all of the processes and points of contact will be provided throughout the training.
 
 **The Relevance team**
 For the Relevance trial, the Raspberry Pi Foundation are working in partnership with [Apps for Good](https://www.appsforgood.org){:target="_blank"} who have developed and produced all the teaching resources for this trial. The recruitment and online training is provided by the Raspberry Pi Foundation.
@@ -42,7 +42,7 @@ What are your experiences of gender balance in computing in your classroom? Do y
 
 --- /task ---
 
-Click the green button (below right) to go to the next step in this session.
+Click the green button (below right) to go to the next step in Part 1.
 
-You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part1-GBICi4).
-You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
+You can go back to the [list of contents for this part (Part 1) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part1-GBICi4).
+You can access the [menu for Parts 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
