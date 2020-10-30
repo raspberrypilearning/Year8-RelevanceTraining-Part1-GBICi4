@@ -18,7 +18,7 @@ The pictures below compare the Scratch and App Lab programming environments:
 
 ---  task ---
 
-The 'Relevance' intervention introduces the fundamental computing concepts. The trial focuses on two strands:
+The 'Relevance' intervention introduces fundamental computing concepts. The trial focuses on two strands:
 1. Identifying real-world issues which can be addressed with apps 
 2. Programming an app in App Lab
 
@@ -31,7 +31,7 @@ The 'Relevance' intervention introduces the fundamental computing concepts. The 
 + Prepare a flowchart to map user interaction for the app as well as identify a sequence for their program
 + Prepare pseudocode to sketch out their program
 
-**2. Programming an app in App Lab**. Sudents convert their idea by programming an app. They:
+**2. Programming an app in App Lab**. Students convert their idea by programming an app. They:
 + Organise code around programming constructs
 + Create sequence
 + Use repetition (iteration), if required
