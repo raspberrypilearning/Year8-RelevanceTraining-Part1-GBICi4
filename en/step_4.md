@@ -33,7 +33,7 @@ You will have the chance to familiarise yourself with the programming environmen
 
 For the 'Relevance' trial, students learn to program in [AppLab](https://code.org/educate/applab){:target="_blank"}, an age-appropriate, block-based programming tool where they will create their own app. App Lab is developed in JavaScript, offering students the opportunity to go on to text-based programming in the future.
 
-Some students may have already programmed in a block-based programming such as [Scratch](https://scratch.mit.edu){:target="_blank"}. Block based programming environnments aid students' understanding of programming concepts because the programming environnment is visual. Students select and drag interlocking coloured blocks rather than type syntax-based code.
+Some students may have already programmed in a block-based programming such as [Scratch](https://scratch.mit.edu){:target="_blank"}. Block based programming environments aid students' understanding of programming concepts because the programming environment is visual. Students select and drag interlocking coloured blocks rather than type syntax-based code.
 
 The pictures below compare the Scratch and App Lab programming environments:
 
