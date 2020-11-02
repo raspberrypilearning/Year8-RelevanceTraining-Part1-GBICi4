@@ -12,7 +12,7 @@ If you did not attend the webinar, you can watch the recording or work your way 
 
 If you would like to watch the recording, please click the video link: [relevance-WebinarIntroEvent](NEED LINK).
 
-Click the following link to access the [slide deck](https://ncce.io/GGlm79).
+Click the following link to access the [Part 1 Training Slide Deck](https://ncce.io/GGlm79).
 
 --- /task ---
 
