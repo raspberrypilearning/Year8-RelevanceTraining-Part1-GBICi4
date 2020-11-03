@@ -6,13 +6,11 @@ The online course is split into three parts. You can access the parts at differe
  
 The 'Introduction to Relevance' webinar was based on the information in this part, Part 1. If you attended the webinar, you may wish to skip to Part 2, or you can revisit the information by working through Part 1.
  
-If you did not attend the webinar, you can watch the recording or work your way through Part 1 to ensure that you understand the background and emphasis of the trial. 
-
 --- task ---
 
-If you would like to watch the recording, please click the video link: [relevance-WebinarIntroEvent](NEED LINK).
+If you did not attend the webinar, watch the [relevance-WebinarIntroEvent](NEED VIDEO LINK) with an accompaning [webinar slide Deck](https://ncce.io/GGlm79). 
 
-Click the following link to access the [Part 1 Training Slide Deck](https://ncce.io/GGlm79).
+Alternatively you can work your way through this part, Part 1, to ensure that you understand the background and emphasis of the trial. 
 
 --- /task ---
 
