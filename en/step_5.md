@@ -22,5 +22,5 @@ Do you notice differences in how interested female and male pupils are in comput
 
 Click the green button (below right) to go to the next step in Part 1.
 
-You can go back to the [list of contents for this part (Part 1) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part1-GBICi4).
+You can go back to the [start of Part 1 here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part1-GBICi4).
 You can access the [menu for Partts 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
