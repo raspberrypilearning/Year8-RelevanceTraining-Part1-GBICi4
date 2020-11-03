@@ -3,8 +3,6 @@ There is evidence that gender stereotypes develop early, but little evidence on 
 
 In the Relevance trial, you will support students to identify real-world issues and produce an app that can address their chosen issue. This will develop a number of technical skills within a more practical context, which will help to link computing to everyday life.
 
----  task ---
-
 The 'Relevance' intervention introduces fundamental computing concepts. The trial focuses on two strands:
 1. Identifying real-world issues which can be addressed with apps 
 2. Programming an app in App Lab
@@ -27,9 +25,6 @@ The 'Relevance' intervention introduces fundamental computing concepts. The tria
 + Solve problems (debug) as the program develops
 
 You will have the chance to familiarise yourself with the programming environment in Part 3 of this online course.
----  /task ---
-
----  task ---
 
 For the 'Relevance' trial, students learn to program in [AppLab](https://code.org/educate/applab){:target="_blank"}, an age-appropriate, block-based programming tool where they will create their own app. App Lab is developed in JavaScript, offering students the opportunity to go on to text-based programming in the future.
 
@@ -39,8 +34,6 @@ The pictures below compare the Scratch and App Lab programming environments:
 
 ![Scratch.png](images/relevance-Scratch.png){:width="400px"}
 ![Applab.png](images/relevance-AppLab.png){:width="400px"}
-
----  /task ---
 
 Click the green button (below right) to go to the next step in Part 1.
 
