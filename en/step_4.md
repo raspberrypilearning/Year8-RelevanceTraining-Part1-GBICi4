@@ -1,18 +1,18 @@
 ##  The Relevance intervention
 There is evidence that gender stereotypes develop early, but little evidence on interventions that target this early development of stereotypes, and none that relate specifically to computing. This pilot intervention focuses on students in Year 8 and builds on evidence that linking learning to everyday life can help student engagement.
 
-In the Relevance trial, you will support students to identify real-world issues and produce an app that can address their chosen issue. This will develop a number of technical skills within a more practical context, which will help to link computing to everyday life.
+In the Relevance trial, you will support students to identify real-world problems and produce an app that can address their chosen problem. This will develop a number of technical skills within a more practical context, which will help to link computing to everyday life.
 
 The 'Relevance' intervention introduces fundamental computing concepts. The trial focuses on two strands:
-1. Identifying real-world issues which can be addressed with apps 
+1. Identifying real-world problems which can be addressed with apps 
 2. Programming an app in App Lab
 
-**1. Identifying real-world issues addressed with apps** is a means of exploring computer programming by relating it to students' interests. Students develop their skills to:
-+ Identify real-world issues
+**1. Identifying real-world problems addressed with apps** is a means of exploring computer programming by relating it to students' interests. Students develop their skills to:
++ Identify real-world problems
 + Review the content in relevant apps
 + Understand the potential of varied content in app design: images, video, text
 + Understand the importance of user interaction in app design
-+ Identify an original idea for an app which addresses a real-world issue
++ Identify an original idea for an app which addresses a real-world problem
 + Prepare a flowchart to map user interaction for the app as well as identify a sequence for their program
 + Prepare pseudocode to sketch out their program
 
