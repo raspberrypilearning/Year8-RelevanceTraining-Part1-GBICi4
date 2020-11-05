@@ -20,18 +20,18 @@ The trials focus on:
 
 You are taking part in the Relevance pilot trial, in which we are evaluating how relating learning to real-world problems successfully engages more girls in computing. The trial as a whole will include Year 8.
 
-The trial is being implemented by the Raspberry Pi Foundation, and you can contact us throughout the trial if you have any queries. The evaluation of the trial is being conducted by the Behavioural Insights Team, and they will contact you during the trial to collect data. More information about all of the processes and points of contact will be provided throughout the training.
+The trial is being implemented by the Raspberry Pi Foundation, and you can contact us throughout the trial if you have any queries. The evaluation of the trial is being conducted by the Behavioural Insights Team, and they will contact you during the trial to collect data. More information about all of the processes and points of contact will be provided throughout the training course.
 
 **The Relevance team**
-For the Relevance trial, the Raspberry Pi Foundation are working in partnership with [Apps for Good](https://www.appsforgood.org){:target="_blank"} who have developed and produced all the teaching resources for this trial. The recruitment and online training is provided by the Raspberry Pi Foundation.
+For the Relevance trial, the Raspberry Pi Foundation is working in partnership with [Apps for Good](https://www.appsforgood.org){:target="_blank"}, who have developed and produced all the teaching resources for this trial. The recruitment and online training is provided by the Raspberry Pi Foundation.
 
 **The GBIC team at Apps for Good**
-The Apps for Good team are responsible for the teaching resources. Programme management  and implementation is led by Heather Picov and Natalie Moore. The teaching resources for the trial have been created by Donna Hay who works on educational resources across Apps for Good.
+The Apps for Good team is responsible for the teaching resources. Programme management and implementation is led by Heather Picov and Natalie Moore. The teaching resources for the trial have been created by Donna Hay, who works on educational resources across Apps for Good.
 
 ![AfG Relevance team](images/relevance-AfGTeam.png){:width="500px"}
 
 **The GBIC team at the Raspberry Pi Foundation**
-The Raspberry Pi Foundation are recruiting for all of the trials, and you will receive communications about your participation from Katharine Childs. Katharine is your main point of contact for any questions you may have about the trial and you can contact her at [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org). Hayley Leonard is responsible for the day-to-day management of the trial, with programme management and implementation led by Sue Sentance, Oliver Quinlan, and Jenny Laidlaw. The online training resources and provision for the trial has been created by Emma Posey who works on educational resources across the Raspberry Pi Foundation.
+The Raspberry Pi Foundation is recruiting for all of the trials, and you will receive communications about your participation from Katharine Childs. Katharine is your main point of contact for any questions you may have about the trial and you can contact her at [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org). Hayley Leonard is responsible for the day-to-day management of the trial, with programme management and implementation led by Sue Sentance, Oliver Quinlan, and Jenny Laidlaw. The online training resources and provision for the trial have been created by Emma Posey, who works on educational resources across the Raspberry Pi Foundation.
 
 ![RPF GBIC team](images/GBICTeam.png)
 
