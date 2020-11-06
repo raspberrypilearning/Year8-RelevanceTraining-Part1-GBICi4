@@ -13,7 +13,7 @@ The Relevance trial introduces fundamental computing concepts. The trial focuses
 + Understand the potential of varied content in app design: images, video, text
 + Understand the importance of user interaction in app design
 + Identify an original idea for an app that addresses a real-world problem
-+ Prepare a flow chart to map user interaction for the app, as well as identify a sequence for their program
++ Prepare a flowchart to map user interaction for the app, as well as identify a sequence for their program
 + Prepare pseudocode to sketch out their program
 
 **2. Programming an app in App Lab**. Students convert their idea by programming an app. They:
