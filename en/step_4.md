@@ -26,7 +26,7 @@ The Relevance trial introduces fundamental computing concepts. The trial focuses
 
 You will have the chance to familiarise yourself with the programming environment in Part 3 of this online course.
 
-For the 'Relevance' trial, students learn to program in [App Lab](https://code.org/educate/applab){:target="_blank"}, an age-appropriate, block-based programming tool where they will create their own app. App Lab is developed in JavaScript, offering students the opportunity to go on to text-based programming in the future.
+For the Relevance trial, students learn to program in [App Lab](https://code.org/educate/applab){:target="_blank"}, an age-appropriate, block-based programming tool where they will create their own app. App Lab is developed in JavaScript, offering students the opportunity to go on to text-based programming in the future.
 
 Some students may have already programmed in a block-based programming language such as [Scratch](https://scratch.mit.edu){:target="_blank"}. Block-based programming environments aid students' understanding of programming concepts because the programming environment is visual. Students select and drag interlocking coloured blocks rather than typing syntax-based code.
 
