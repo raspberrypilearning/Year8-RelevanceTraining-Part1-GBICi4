@@ -16,9 +16,9 @@ The trials focus on:
 + Informal learning (Year 6 in Code Clubs and Year 8 completing the Apps for Good programme): the intervention highlights the links between what pupils learn in informal computing settings and more formal computing education
 + Belonging (Year 5): the intervention targets pupils' sense of belonging in computing by increasing parent understanding of computing education and careers, and introducing role models
 + Teaching approach (Years 2, 4, 6, and 8): the intervention focuses on approaches to teaching computing that may engage more girls in computing
-+ Relevance (Year 8): the intervention focuses on using computing and technology to address real-world problems
++ Relevance (Year 8): the intervention focuses on using computing and technology to solve real-world problems
 
-You are taking part in the Relevance pilot trial, in which we are evaluating how relating learning to real-world problems successfully engages more girls in computing. The trial as a whole will include Year 8.
+You are taking part in the Relevance pilot trial, in which we are evaluating whether relating learning to real-world problems successfully engages more girls in computing. The trial will include students in Year 8.
 
 The trial is being implemented by the Raspberry Pi Foundation, and you can contact us throughout the trial if you have any queries. The evaluation of the trial is being conducted by the Behavioural Insights Team, and they will contact you during the trial to collect data. More information about all of the processes and points of contact will be provided throughout the training course.
 
@@ -31,7 +31,7 @@ The Apps for Good team is responsible for the teaching resources. Programme mana
 ![AfG Relevance team](images/relevance-AfGTeam.png){:width="500px"}
 
 **The GBIC team at the Raspberry Pi Foundation**
-The Raspberry Pi Foundation is recruiting for all of the trials, and you will receive communications about your participation from Katharine Childs. Katharine is your main point of contact for any questions you may have about the trial and you can contact her at [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org). Hayley Leonard is responsible for the day-to-day management of the trial, with programme management and implementation led by Sue Sentance, Oliver Quinlan, and Jenny Laidlaw. The online training resources and provision for the trial have been created by Emma Posey, who works on educational resources across the Raspberry Pi Foundation.
+The Raspberry Pi Foundation is recruiting for all of the trials, and you will receive communications about your participation from Katharine Childs. Katharine is your main point of contact for any questions you may have about the trial and you can contact her at [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org). Hayley Leonard is responsible for the day-to-day management of the trial, with programme management and implementation led by Sue Sentance, Oliver Quinlan, and Jenny Laidlaw. The online training resources for the trial have been created by Emma Posey, who works on educational resources across the Raspberry Pi Foundation.
 
 ![RPF GBIC team](images/GBICTeam.png)
 
