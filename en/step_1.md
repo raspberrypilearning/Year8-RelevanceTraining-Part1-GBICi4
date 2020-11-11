@@ -1,6 +1,6 @@
-## Part 1: Year 8 Relevance training – Introduction
+## Part 1: Year 8 'Relevance' training – Introduction
 
-Hello, and welcome to the 'Relevance' intervention, part of the Gender Balance in Computing programme. In Part 1, you will be introduced to the Gender Balance in Computing programme and the Relevance trial.
+Hello, and welcome to the Relevance trial, part of the Gender Balance in Computing programme. In Part 1, you will be introduced to the Gender Balance in Computing programme and the Relevance trial.
 
 The online course is split into three parts. You can access the parts at different times, or complete the whole course at one time. You will be able to revisit the three parts until the end of the Relevance trial. 
  
@@ -8,15 +8,15 @@ The 'Introduction to Relevance' webinar was based on the information in this par
  
 --- task ---
 
-If you did not attend the webinar, watch the [relevance-WebinarIntroEvent](NEED VIDEO LINK) with an accompaning [webinar slide Deck](https://ncce.io/GGlm79). 
+If you did not attend the webinar, you can watch the [recording of the webinar](NEED VIDEO LINK) with the accompanying [webinar slide deck](https://ncce.io/GGlm79). 
 
-Alternatively you can work your way through this part, Part 1, to ensure that you understand the background and emphasis of the trial. 
+Alternatively, you can work your way through this part of the course, Part 1, to ensure that you understand the background and emphasis of the trial. 
 
 --- /task ---
 
-### Part 1 content
+### Course content
 
-Part 1 focuses on some of the research used as the basis for the trial, so that you can better understand why introducing a real-world focus in your lesson could affect the gender balance in computing in your school. The 'Relevance' intervention and the research behind it will be introduced, including why making learning relevant is thought to be engaging for girls. You will also consider some of the practicalities of implementing ‘Relevance’ in your classroom.
+Part 1 focuses on some of the research used as the basis for the trial, so that you can better understand why introducing a real-world focus in your lesson could affect the gender balance in computing in your school. The Relevance trial and the research behind it will be introduced, including why making learning relevant is thought to be engaging for girls. You will also consider some of the practicalities of implementing 'relevance' in your classroom.
 
 Parts 2 and 3 allow you time to explore the resources so that you are fully at ease with the content before the trial begins. These parts of the online training course also include some hands-on development activities for you to complete in order to further your understanding of the resources and App Lab. You will need to register your completion of the tasks, as they form part of your engagement in the trial.
 

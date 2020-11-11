@@ -1,6 +1,6 @@
 ## The Relevance trial
 
-It is important to note that, while the research suggests that 'Relevance' may be particularly beneficial for girls, we expect that a wide range of pupils will benefit. When we talk about boys' and girls' attitudes to computing throughout this course, we are basing the discussion on research that has suggested differences on average between them. We recognise that this does not necessarily reflect all pupils' experiences of computing.
+It is important to note that, while the research suggests that considering the 'relevance' of computing in addressing real-world problems may be particularly beneficial for increasing girls’ engagement, we expect that a wide range of pupils will benefit. When we talk about boys' and girls' attitudes to computing throughout this course, we are basing the discussion on research that has suggested differences on average between them. We recognise that this does not necessarily reflect all pupils' experiences of computing.
 
 In the Relevance trial, we are asking one key question: 
 + Does linking computing lessons to real-world problems make computing more engaging to girls in Year 8?

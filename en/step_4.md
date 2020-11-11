@@ -1,22 +1,22 @@
-##  The Relevance intervention
-There is evidence that gender stereotypes develop early, but little evidence on interventions that target this early development of stereotypes, and none that relate specifically to computing. This pilot intervention focuses on students in Year 8 and builds on evidence that linking learning to everyday life can help student engagement.
+##  The Relevance trial in practice
+This pilot intervention focuses on students in Year 8 and builds on evidence that linking learning to everyday life can increase student engagement.
 
-In the Relevance trial, you will support students to identify real-world problems and produce an app that can address their chosen problem. This will develop a number of technical skills within a more practical context, which will help to link computing to everyday life.
+In the Relevance trial, you will support students to identify real-world problems and produce an app that can address a problem that matters to them. This will help students to develop a number of technical skills within a more practical context, which will help to link computing to everyday life.
 
-The 'Relevance' intervention introduces fundamental computing concepts. The trial focuses on two strands:
-1. Identifying real-world problems which can be addressed with apps 
+The Relevance trial focuses on two strands:
+1. Identifying real-world problems that can be addressed with apps 
 2. Programming an app in App Lab
 
-**1. Identifying real-world problems addressed with apps** is a means of exploring computer programming by relating it to students' interests. Students develop their skills to:
+**1. Identifying real-world problems that can be addressed with apps** is a means of exploring computer programming by relating it to students' interests. Students develop their skills to:
 + Identify real-world problems
 + Review the content in relevant apps
 + Understand the potential of varied content in app design: images, video, text
 + Understand the importance of user interaction in app design
-+ Identify an original idea for an app which addresses a real-world problem
-+ Prepare a flowchart to map user interaction for the app as well as identify a sequence for their program
++ Identify an original idea for an app that addresses a real-world problem
++ Prepare a flowchart to map user interaction for the app, as well as identify a sequence for their program
 + Prepare pseudocode to sketch out their program
 
-**2. Programming an app in App Lab**. Students convert their idea by programming an app. They:
+**2. Programming an app in App Lab** allows students to convert their idea into an app. They:
 + Organise code around programming constructs
 + Create sequence
 + Use repetition (iteration), if required
@@ -26,11 +26,11 @@ The 'Relevance' intervention introduces fundamental computing concepts. The tria
 
 You will have the chance to familiarise yourself with the programming environment in Part 3 of this online course.
 
-For the 'Relevance' trial, students learn to program in [AppLab](https://code.org/educate/applab){:target="_blank"}, an age-appropriate, block-based programming tool where they will create their own app. App Lab is developed in JavaScript, offering students the opportunity to go on to text-based programming in the future.
+For the Relevance trial, students learn to program in [App Lab](https://code.org/educate/applab){:target="_blank"}, an age-appropriate, block-based programming tool with which they will create their own app. App Lab is developed in JavaScript, offering students the opportunity to go on to text-based programming in the future.
 
-Some students may have already programmed in a block-based programming language such as [Scratch](https://scratch.mit.edu){:target="_blank"}. Block based programming environments aid students' understanding of programming concepts because the programming environment is visual. Students select and drag interlocking coloured blocks rather than type syntax-based code.
+Some students may have already programmed in a block-based programming language such as [Scratch](https://scratch.mit.edu){:target="_blank"}. Block-based programming environments aid students' understanding of programming concepts because the programming environments are visual. Students select and drag interlocking coloured blocks rather than typing syntax-based code.
 
-The pictures below compare the Scratch and App Lab programming environments:
+The pictures below show the Scratch and App Lab programming environments:
 
 ![Scratch.png](images/relevance-Scratch.png){:width="400px"}
 ![Applab.png](images/relevance-AppLab.png){:width="400px"}
