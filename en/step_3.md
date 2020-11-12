@@ -3,7 +3,7 @@
 It is important to note that, while the research suggests that considering the 'relevance' of computing in addressing real-world problems may be particularly beneficial for increasing girls’ engagement, we expect that a wide range of pupils will benefit. When we talk about boys' and girls' attitudes to computing throughout this course, we are basing the discussion on research that has suggested differences on average between them. We recognise that this does not necessarily reflect all pupils' experiences of computing.
 
 In the Relevance trial, we are asking one key question: 
-+ Does linking computing lessons to real-world problems make computing more engaging to girls in Year 8?
++ Does linking computing lessons to addressing real-world problems make computing more engaging to girls in Year 8?
 
 Click the green button (below right) to go to the next step in Part 1.
 
