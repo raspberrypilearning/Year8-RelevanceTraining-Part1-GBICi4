@@ -2,7 +2,7 @@
 
 The premise of the Relevance pilot trial is that the way in which computing is taught may not always match the ways in which girls prefer to learn, or their interests. It can often be seen as quite an abstract subject.
 
-Previous research in science has shown that high-school students were more interested and achieved better grades when they were encouraged to understand the practical applications of the subject and its relevance for their own lives (Hulleman & Harackiewicz, 2009).
+Previous research in science has shown that high-school students were more interested and achieved better grades when they were encouraged to understand the practical applications of the subject and its relevance for their own lives [(Hulleman & Harackiewicz, 2009)](https://prlsamp.rcse.upr.edu/downloads/bestpractice2015/Harackiewicz_04.pdf).
 
 This focus on practicality and use of a subject can be seen in the computing qualifications that female students in the UK tend to choose: female students are better represented in computing subjects that are viewed as more practical than computer science, such as those involving creative digital media (Kemp et al., 2017).
 
