@@ -2,7 +2,7 @@
 
 In order to assess whether this intervention affects attitudes towards computing, students should complete our survey in the first session (Session 1) and in the final session (Session 12).
 
-The data collected for the trial will be students' attitudes to computing before and after implementing the Relevance intervention for 12 weeks (or 12 hours of lessons). As outlined in the Memorandum of Understanding, your school should have sent out information letters to parents/carers to allow them to opt out of data collection on their child's behalf if they wish to.
+The data collected for the trial will be on students' attitudes to computing before and after implementing the Relevance intervention for 12 weeks (or 12 hours of lessons). As outlined in the Memorandum of Understanding, your school should have sent out information letters to parents/carers to allow them to opt out of data collection on their child's behalf if they wish to.
 
 The project guide also outlines how to explain the data collection to your students so that they can opt out if they do not wish their data to be collected. Any student who has opted out, by their own choice or by their parents'/carers' choice, should not complete the surveys described below. They will, however, take part in lessons as usual, and so will experience the intervention along with the rest of the class.
  
