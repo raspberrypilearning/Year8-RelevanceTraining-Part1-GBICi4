@@ -1,9 +1,9 @@
-##  The Relevance trial in practice
-This pilot intervention focuses on students in Year 8 and builds on evidence that linking learning to everyday life can increase student engagement.
+##  The Relevance project in practice
+This pilot project focuses on students in Year 8 and builds on evidence that linking learning to everyday life can increase student engagement.
 
-In the Relevance trial, you will support students to identify real-world problems and produce an app that can address a problem that matters to them. This will help students to develop a number of technical skills within a more practical context, which will help to link computing to everyday life.
+In the Relevance project, you will support students to identify real-world problems and produce an app that can address a problem that matters to them. This will help students to develop a number of technical skills within a more practical context, which will help to link computing to everyday life.
 
-The Relevance trial focuses on two strands:
+The Relevance project focuses on two strands:
 1. Identifying real-world problems that can be addressed with apps 
 2. Programming an app in App Lab
 
@@ -26,7 +26,7 @@ The Relevance trial focuses on two strands:
 
 You will have the chance to familiarise yourself with the programming environment in Part 3 of this online course.
 
-For the Relevance trial, students learn to program in [App Lab](https://code.org/educate/applab){:target="_blank"}, an age-appropriate, block-based programming tool with which they will create their own app. App Lab is developed in JavaScript, offering students the opportunity to go on to text-based programming in the future.
+For the Relevance project, students learn to program in [App Lab](https://code.org/educate/applab){:target="_blank"}, an age-appropriate, block-based programming tool with which they will create their own app. App Lab is developed in JavaScript, offering students the opportunity to go on to text-based programming in the future.
 
 Some students may have already programmed in a block-based programming language such as [Scratch](https://scratch.mit.edu){:target="_blank"}. Block-based programming environments aid students' understanding of programming concepts because the programming environments are visual. Students select and drag interlocking coloured blocks rather than typing syntax-based code.
 
