@@ -4,13 +4,12 @@ Hello, and welcome to the Relevance trial, part of the Gender Balance in Computi
 
 The online course is split into three parts. You can access the parts at different times, or complete the whole course at one time. You will be able to revisit the three parts until the end of the Relevance trial. 
  
-The 'Introduction to Relevance' webinar was based on the information in this part, Part 1. If you attended the webinar, you may wish to skip to Part 2, or you can revisit the information by working through Part 1.
+The 'Introduction to Relevance' webinar was based on the information in this part, Part 1. However, additional details are provided in this online training, so please do work through this session even if you attended the webinar.
  
 --- task ---
 
-If you did not attend the webinar, you can watch the [recording of the webinar](NEED VIDEO LINK) with the accompanying [webinar slide deck](https://ncce.io/GGlm79). 
+If you did not attend the webinar, you can watch the recording or work your way through this session to ensure that you understand the background and emphasis of the trial. If you would like to watch the recording, please see the video and slide deck below:
 
-Alternatively, you can work your way through this part of the course, Part 1, to ensure that you understand the background and emphasis of the trial. 
 
 --- /task ---
 
