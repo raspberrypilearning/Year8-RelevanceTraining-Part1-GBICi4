@@ -1,5 +1,5 @@
 ## Summary of Part 1
-In Part 1 of the course, you have focused on the research background of the 'Relevance' trial and covered some key practical issues of implementing the trial in the classroom.
+In Part 1 of the course, you have focused on the research background of the 'Relevance' project and covered some key practical issues of implementing the project in the classroom.
  
 In Part 2, you will be introduced to the 'Relevance' resources, where you can begin to explore apps that address real-world problems, and work through some idea development processes.
 
