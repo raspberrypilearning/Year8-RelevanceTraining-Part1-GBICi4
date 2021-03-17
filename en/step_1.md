@@ -4,14 +4,9 @@ Hello, and welcome to the Relevance project, part of the Gender Balance in Compu
 
 The online course is split into three parts. You can access the parts at different times, or complete the whole course at one time. You will be able to revisit the three parts until the end of the Relevance project. 
  
-The 'Introduction to Relevance' webinar was based on the information in this part, Part 1. However, additional details are provided in this online training, so please do work through this session even if you attended the webinar.
+The 'Introduction to Relevance' webinar was based on the information in this session, Session 1. However, additional details are provided in this online training, so please do work through this session even if you attended the webinar.
  
---- task ---
-
-If you did not attend the webinar, you can watch the recording or work your way through this session to ensure that you understand the background and emphasis of the project. If you would like to watch the recording, please see the video and slide deck below:
-
-
---- /task ---
+If you did not attend the webinar, you can watch the recording or work your way through this session to ensure that you understand the background and emphasis of the project. The recording and slides have been sent to you via email, along with a document outlining key questions and answers from the session.
 
 ### Course content
 
