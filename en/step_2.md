@@ -18,7 +18,7 @@ The trials focus on:
 + Teaching approach (Years 2, 4, 6, and 8): the intervention focuses on approaches to teaching computing that may engage more girls in computing
 + Relevance (Year 8): the intervention focuses on using computing and technology to solve real-world problems
 
-You are taking part in the Relevance pilot trial, in which we are evaluating whether relating learning to addressing real-world problems successfully engages more girls in computing. The trial will include students in Year 8.
+You are taking part in the Relevance trial, in which we are evaluating whether relating learning to addressing real-world problems successfully engages more girls in computing. The trial will include students in Year 8.
 
 The trial is being implemented by the Raspberry Pi Foundation, and you can contact us throughout the trial if you have any queries. The evaluation of the trial is being conducted by the Behavioural Insights Team, and they will contact you during the trial to collect data. More information about all of the processes and points of contact will be provided throughout the training course.
 
