@@ -1,6 +1,6 @@
 ## Why would girls benefit from considering the relevance of computing to them?
 
-The premise of the Relevance pilot trial is that the way in which computing is taught may not always match the ways in which girls prefer to learn, or their interests. It can often be seen as quite an abstract subject.
+The premise of the Relevance trial is that the way in which computing is taught may not always match the ways in which girls prefer to learn, or their interests. It can often be seen as quite an abstract subject.
 
 This focus on practicality and use of a subject can be seen in the computing qualifications that female students in the UK tend to choose: female students are better represented in computing subjects that are viewed as more practical than computer science, such as those involving creative digital media [(Kemp et al., 2017)](https://www.bcs.org/media/3972/tracer-2017.pdf).
 
