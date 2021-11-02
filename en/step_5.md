@@ -9,7 +9,7 @@ Part of being a 'practical' subject involves showing female students that comput
 + Research in the United States has suggested that female undergraduates are more likely to have goals related to helping others compared to male computing students, and that they do not always recognise the opportunities that computer science affords to meet these goals [(Lewis et al., 2019)](https://dl.acm.org/doi/abs/10.1145/3291279.3339426)
 + Increasing the relevance of computing to students' lives has been shown to improve engagement of female undergraduates, producing a gender balance in the courses taken and resulting in improved retention of students over time [(Guzdial & Tew, 2006)](https://dl.acm.org/doi/abs/10.1145/1151588.1151597)
 
-This GBIC pilot study is the first piece of research to focus on how secondary school–aged students are affected by increasing the sense of relevance of computing through solving real-world problems.
+This GBIC study is the first piece of research to focus on how secondary school–aged students are affected by increasing the sense of relevance of computing through solving real-world problems.
 
 ---  task ---
 
