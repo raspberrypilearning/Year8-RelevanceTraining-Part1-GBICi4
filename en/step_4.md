@@ -1,5 +1,5 @@
 ##  The Relevance trial in practice
-This pilot intervention focuses on students in Year 8 and builds on evidence that linking learning to everyday life can increase student engagement.
+This intervention focuses on students in Year 8 and builds on evidence that linking learning to everyday life can increase student engagement.
 
 In the Relevance trial, you will support students to identify real-world problems and produce an app that can address a problem that matters to them. This will help students to develop a number of technical skills within a more practical context, which will help to link computing to everyday life.
 
@@ -24,7 +24,9 @@ The Relevance trial focuses on two strands:
 + Introduce input and output processes
 + Solve problems (debug) as the program develops
 
-You will have the chance to familiarise yourself with the programming environment in Part 3 of this online course.
+In class, sessions on idea development are intermixed with sessions focusing on App Lab. 
+
+However, for this training course, you will explore the two separately - idea development in Part 2 and App Lab in Part 3, where you will have the chance to familiarise yourself with the programming environment.
 
 For the Relevance trial, students learn to program in [App Lab](https://code.org/educate/applab){:target="_blank"}, an age-appropriate, block-based programming tool with which they will create their own app. App Lab is developed in JavaScript, offering students the opportunity to go on to text-based programming in the future.
 
