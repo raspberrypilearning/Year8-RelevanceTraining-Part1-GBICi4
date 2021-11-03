@@ -26,7 +26,7 @@ The trial is being implemented by the Raspberry Pi Foundation, and you can conta
 For the Relevance trial, the Raspberry Pi Foundation is working in partnership with [Apps for Good](https://www.appsforgood.org){:target="_blank"}, who have developed and produced all the teaching resources for this trial. The recruitment and online training is provided by the Raspberry Pi Foundation.
 
 **The GBIC team at Apps for Good**
-The Apps for Good team is responsible for the teaching resources. Programme management and implementation is led by Heather Picov and Natalie Moore. The teaching resources for the trial have been created by Donna Hay, who works on educational resources across Apps for Good.
+The Apps for Good team is responsible for the teaching resources. Programme management and implementation is led by Heather Picov and Natalie Moore. The teaching resources for the trial have been created by Donna Hay.
 
 ![AfG Relevance team](images/relevance-AfGTeam.png){:width="500px"}
 
