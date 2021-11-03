@@ -8,9 +8,7 @@ The 'Introduction to Relevance' webinar was based on the information in this par
  
 --- task ---
 
-If you did not attend the webinar, you can watch the [recording of the webinar](NEED VIDEO LINK) with the accompanying [webinar slide deck](https://ncce.io/GGlm79). 
-
-Alternatively, you can work your way through this part of the course, Part 1, to ensure that you understand the background and emphasis of the trial. 
+Work your way through this part of the course, Part 1, to ensure that you understand the background and emphasis of the trial. 
 
 --- /task ---
 
