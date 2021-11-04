@@ -1,6 +1,6 @@
 ## Data collection using the online survey
 
-In order to assess whether this intervention affects attitudes towards computing, students should complete our survey in the first session (Session 1) and in the final session (Session 13). There are two optional sessions. Teachers will either choose to undertake 11, 12 or 13 sessions overall. 
+In order to assess whether this intervention affects attitudes towards computing, students should complete our survey in the first session (Session 1) and in the final session (Session 13). Please note, all students undertake Sessions 1 and Session 13. There are two optional sessions (Session 7 and Session 11). Teachers will therefore choose to undertake either 11, 12 or 13 sessions overall. 
 
 The data collected for the trial will be students' attitudes to computing before and after implementing the Relevance intervention for 11 to 13 weeks (or 11 to 13 hours of lessons). As outlined in the Memorandum of Understanding, your school should have sent out information letters to parents/carers to allow them to opt out of data collection on their child's behalf if they wish to.
 
