@@ -13,8 +13,7 @@ The Relevance trial focuses on two strands:
 + Understand the potential of varied content in app design: images, video, text
 + Understand the importance of user interaction in app design
 + Identify an original idea for an app that addresses a real-world problem
-+ Prepare a flowchart to map user interaction for the app, as well as identify a sequence for their program
-+ Prepare pseudocode to sketch out their program
++ Sketch out their app
 
 **2. Programming an app in App Lab** allows students to convert their idea into an app. They:
 + Organise code around programming constructs
