@@ -5,7 +5,7 @@ It is important to note that, while the research suggests that considering the '
 In the Relevance trial, we are asking one key question: 
 + Does linking computing lessons to real-world problems make computing more engaging to girls in Year 8?
 
-Watch this [video](https://www.youtube.com/watch?v=xJqSu1IbcHg) that to hear more about the relevance to computing in a range of careers.
+Watch [this video](https://www.youtube.com/watch?v=xJqSu1IbcHg) to hear more about the relevance to computing in a range of careers.
 
 Click the green button (below right) to go to the next step in Part 1.
 
