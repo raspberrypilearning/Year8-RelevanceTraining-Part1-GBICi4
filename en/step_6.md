@@ -12,7 +12,7 @@ Students will need to complete the pre- and post-surveys online. Each student wi
 
 You may need to take some time to read the questions out for students who have difficulty reading them independently, but please ensure that students answer them on their own, in their own words. Try not to lead students to a particular response while helping them to understand the questions.
 
-Survey questions are answered with reference to a 4-point Likert scale ranging from 1 = Strongly disagree to 4 = Strongly agree and are related to students' attitudes and engagement with computing.
+Survey questions are answered with reference to a four-point Likert scale ranging from 1 = Strongly disagree to 4 = Strongly agree and are related to students' attitudes and engagement with computing.
 
 You will need to assign time in Session 1 to complete the pre-survey. At the end of the final session (Session 13), you will also need to allocate time to complete the post-survey.
 
