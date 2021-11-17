@@ -1,5 +1,5 @@
 ## Summary of Part 1
-In Part 1 of the course, you have focused on the research background of the 'Relevance' trial and covered some key practical issues of implementing the trial in the classroom.
+In Part 1 of the course, you have focused on the research background of the Relevance trial and covered some key practical issues of implementing the trial in the classroom.
  
 In Part 2, you will be introduced to the 'Relevance' resources, where you can begin to explore apps that address real-world problems, and work through some idea development processes.
 
@@ -7,4 +7,4 @@ You can access [Part 2 here](https://projects.raspberrypi.org/en/projects/Year8-
 
 You can access the [menu for Parts 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
 
-**Note: Please do not click the green 'What's next?' button (below right) as this link is not relevant to this training course.**
+**Note: Please do not click the green 'What's next?' button (below right), as this link is not relevant to this training course.**
