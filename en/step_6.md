@@ -16,7 +16,7 @@ Survey questions are answered with reference to a four-point Likert scale rangin
 
 You will need to assign time in Session 1 to complete the pre-survey. At the end of the final session (Session 13), you will also need to allocate time to complete the post-survey.
 
-At the end of the trial, you may be contacted by our colleagues in the Behavioural Insights Team, who may wish to ask you some questions about participating in the trial, which is separate from the survey data. Please do respond to them to help us better understand your experience of the research programme.
+During the trial, you may be contacted by our colleagues in the Behavioural Insights Team, who may wish to ask you some questions about participating in the trial, which is separate from the survey data. Please do respond to them to help us better understand your experience of the research programme.
 
 Click the green button (below right) to go to the next step in Part 1.
 
