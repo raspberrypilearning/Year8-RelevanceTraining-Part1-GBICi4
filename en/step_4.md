@@ -1,5 +1,5 @@
 ##  The Relevance trial in practice
-This Relevance intervention focuses on students in Year 8 and builds on evidence that linking learning to everyday life can increase student engagement.
+The Relevance intervention focuses on students in Year 8 and builds on evidence that linking learning to everyday life can increase student engagement.
 
 In the Relevance trial, you will support students to identify real-world problems and produce an app that can address a problem that matters to them. This will help students to develop a number of technical skills within a more practical context, which will help to link computing to everyday life.
 
