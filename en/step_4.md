@@ -10,7 +10,7 @@ The Relevance trial focuses on two strands:
 **1. Identifying real-world problems that can be addressed with apps** is a means of exploring computer programming by relating it to students' interests. Students develop their skills to:
 + Identify real-world problems
 + Review the content in relevant apps
-+ Understand the potential of varied content in app design: images, video, text
++ Understand the potential of varied content (such as images, video, text) in app design
 + Understand the importance of user interaction in app design
 + Identify an original idea for an app that addresses a real-world problem
 + Sketch out their app
@@ -23,11 +23,11 @@ The Relevance trial focuses on two strands:
 + Introduce input and output processes
 + Solve problems (debug) as the program develops
 
-In class, sessions on idea development are intermixed with sessions focusing on App Lab. However, for this training course, you will explore the two separately. 
+In class, sessions focusing on idea development are intermixed with sessions focusing on App Lab. However, in this training course, you will explore the two separately. 
 
-In Part 2, you will explore apps that address real-world problems, and work through some idea development processes. In Part 3, you will work through App Lab where you will have the chance to familiarise yourself with the programming environment.
+In Part 2 of the course, you will explore apps that address real-world problems, and work through some idea development processes. In Part 3, you will explore App Lab and have the chance to familiarise yourself with the programming environment.
 
-For the Relevance trial, students learn to program in [App Lab](https://code.org/educate/applab){:target="_blank"}, an age-appropriate, block-based programming tool with which they will create their own app. App Lab is developed in JavaScript, offering students the opportunity to go on to text-based programming in the future.
+[App Lab](https://code.org/educate/applab){:target="_blank"} is an age-appropriate, block-based programming tool with which students will create their own app. App Lab is developed in JavaScript, offering students the opportunity to go on to text-based programming in the future.
 
 Some students may have already programmed in a block-based programming language such as [Scratch](https://scratch.mit.edu){:target="_blank"}. Block-based programming environments aid students' understanding of programming concepts because the programming environments are visual. Students select and drag interlocking coloured blocks rather than typing syntax-based code.
 
