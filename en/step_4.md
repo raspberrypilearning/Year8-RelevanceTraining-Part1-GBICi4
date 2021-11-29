@@ -31,8 +31,8 @@ Some students may have already programmed in a block-based programming language 
 
 The pictures below show the Scratch and App Lab programming environments:
 
-![The Scratch programming environment](images/relevance-Scratch.png){:width="400px"}
-![The Applab programming environment](images/relevance-AppLab.png){:width="400px"}
+![The Scratch programming environment.](images/relevance-Scratch.png){:width="400px"}
+![The App Lab programming environment.](images/relevance-AppLab.png){:width="400px"}
 
 Click the green button (below right) to go to the next step in Part 1.
 
