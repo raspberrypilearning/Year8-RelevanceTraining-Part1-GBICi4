@@ -4,7 +4,7 @@ In order for us to assess whether the Relevance intervention affects attitudes t
 
 The data collected for the trial will be students' attitudes to computing before and after implementing the Relevance intervention. As outlined in the Memorandum of Understanding, your school should have sent out information letters to parents/carers to allow them to opt out of data collection on their child's behalf if they wish to.
 
-The project guide also outlines how to explain the data collection to your students so that they can opt out if they do not wish their data to be collected. Any student who has opted out, by their own choice or by their parents'/carers' choice, should not complete the surveys described below. They will, however, take part in lessons as usual, and so will experience the intervention along with the rest of the class.
+The project guide also outlines how to explain the data collection to your students so that they can opt out if they do not wish their data to be collected. Any student who has opted out, by their own choice or by their parents'/carers' choice, should not complete the surveys. They will, however, take part in lessons as usual, and so will experience the intervention along with the rest of the class.
 
 You will need to assign time in Session 1 to complete the pre-survey, and at the end of the final session (Session 13), you will also need to allocate time to complete the post-survey.
  
