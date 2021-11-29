@@ -6,14 +6,14 @@ It is part of the National Centre for Computing Education (NCCE), which is deliv
 
 The NCCE's vision is for every child in every school in England to have a world-leading computing education. We provide high-quality support for the teaching of computing in schools and colleges, from key stage 1 through to A level. Our extensive range of training, resources, and support covers elements of the curriculum at every key stage, catering for all levels of subject knowledge and experience.
 
-![NCCE Images](images/NCCEImage.png){:width="400px"}
+![The Gender Balance in Computing programme comprises four themed interventions: Teaching approach, Relevance, Non-formal learning, and Belonging.](images/NCCEImage.png){:width="400px"}
 
 The Gender Balance in Computing programme of research is the largest national research effort to tackle gender balance in computing to date. Trials began in 2019 and will run to 2022 in key stages 1 to 4. By the end of 2022, more than 15,000 students and 550 schools will be involved in the programme.
 
 The research is made up of several randomised control trials. Each trial investigates a different intervention that previous research has identified as beneficial to girls' engagement with computing, or with science, technology, engineering, and maths more generally. We have recruited schools for each trial and randomly assigned them into two groups: one group will continue with 'business as usual' and the other will complete the new intervention. Our evaluation partners from the Behavioural Insights Team will collect data about both groups before and after the trial to compare the impact that it has had. This is the best way we know of to understand the impact of new practices in education, and it is the approach that is used in education research across the world. 
 
 The trials focus on:
-+ Informal Learning (Code Clubs and Year 8 completing the Apps for Good programme): the intervention highlights the links between what pupils learn in informal computing settings and more formal computing education
++ Informal Learning (primary school Code Clubs and Year 8 completing the Apps for Good programme): the intervention highlights the links between what pupils learn in informal computing settings and more formal computing education
 + Belonging (Year 5): the intervention targets pupils' sense of belonging in computing by increasing parent understanding of computing education and careers, and introducing role models
 + Teaching Approach (Years 2, 4, 6, and 8): the intervention focuses on approaches to teaching computing that may engage more girls in computing
 + Relevance (Year 8): the intervention focuses on using computing and technology to solve real-world problems
