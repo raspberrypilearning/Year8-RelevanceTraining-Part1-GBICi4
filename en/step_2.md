@@ -13,7 +13,7 @@ The Gender Balance in Computing programme of research is the largest national re
 The research is made up of several randomised control trials. Each trial investigates a different intervention that previous research has identified as beneficial to girls' engagement with computing, or with science, technology, engineering, and maths more generally. We have recruited schools for each trial and randomly assigned them into two groups: one group will continue with 'business as usual' and the other will complete the new intervention. Our evaluation partners from the Behavioural Insights Team will collect data about both groups before and after the trial to compare the impact that it has had. This is the best way we know of to understand the impact of new practices in education, and it is the approach that is used in education research across the world. 
 
 The trials focus on:
-+ Informal Learning (Year 6 in Code Clubs and Year 8 completing the Apps for Good programme): the intervention highlights the links between what pupils learn in informal computing settings and more formal computing education
++ Informal Learning (Code Clubs and Year 8 completing the Apps for Good programme): the intervention highlights the links between what pupils learn in informal computing settings and more formal computing education
 + Belonging (Year 5): the intervention targets pupils' sense of belonging in computing by increasing parent understanding of computing education and careers, and introducing role models
 + Teaching Approach (Years 2, 4, 6, and 8): the intervention focuses on approaches to teaching computing that may engage more girls in computing
 + Relevance (Year 8): the intervention focuses on using computing and technology to solve real-world problems
