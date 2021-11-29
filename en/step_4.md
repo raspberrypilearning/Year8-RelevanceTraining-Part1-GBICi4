@@ -10,7 +10,7 @@ The Relevance trial focuses on two strands:
 **1. Identifying real-world problems that can be addressed with apps** is a means of exploring computer programming by relating it to students' interests. Students develop their skills to:
 + Identify real-world problems
 + Review the content in relevant apps
-+ Understand the potential of varied content (such as images, video, text) in app design
++ Understand the potential of varied content (such as images, video, and text) in app design
 + Understand the importance of user interaction in app design
 + Identify an original idea for an app that addresses a real-world problem
 + Sketch out their app
