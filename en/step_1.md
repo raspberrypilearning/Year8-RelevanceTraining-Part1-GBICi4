@@ -1,6 +1,8 @@
 ## Part 1: Year 8 'Relevance' training – Introduction
 
-Hello, and welcome to the Relevance trial, part of the Gender Balance in Computing programme. In Part 1 of this online course, you will be introduced to the Gender Balance in Computing programme and the Relevance trial.
+Hello, and welcome to the Relevance trial, part of the Gender Balance in Computing programme. 
+
+In Part 1 of this online course, you will be introduced to the Gender Balance in Computing programme and the Relevance trial.
 
 This online course is split into three parts. You can access the parts at different times, or complete the whole course at one time. You will be able to revisit the three parts until the end of the Relevance trial. You should allow up to four hours in total to complete the training. Remember that your school can be reimbursed for supply cover for these four hours.
 
