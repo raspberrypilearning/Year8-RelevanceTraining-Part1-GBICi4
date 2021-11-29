@@ -10,7 +10,7 @@ This online course is split into three parts. You can access the parts at differ
 
 Work your way through this part of the course, Part 1, to ensure that you understand the background and emphasis of the trial. 
 
-Please note that all links within this online course open the relevant file or webpage within the original tab. This is to avoid having too many separate tabs open at the same time. When you have clicked a link, simply click the 'Return' or 'Go back' button in your browser to come back to this online course again.
+Please note that all links within this online course open the relevant file or webpage within the original tab. This is to avoid having too many separate tabs open at the same time. When you have clicked a link, simply click the 'Return' or 'Back' button in your browser to come back to this online course again.
 
 --- /task ---
 
