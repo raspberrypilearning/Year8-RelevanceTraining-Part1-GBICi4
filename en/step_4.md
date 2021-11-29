@@ -23,9 +23,7 @@ The Relevance trial focuses on two strands:
 + Introduce input and output processes
 + Solve problems (debug) as the program develops
 
-In class, sessions focusing on idea development are intermixed with sessions focusing on App Lab. However, in this training course, you will explore the two separately. 
-
-In Part 2 of the course, you will explore apps that address real-world problems, and work through some idea development processes. In Part 3, you will explore App Lab and have the chance to familiarise yourself with the programming environment.
+In class, sessions focusing on idea development are intermixed with sessions focusing on App Lab. However, in this training course, you will explore the two separately. In Part 2 of the course, you will explore apps that address real-world problems, and work through some idea development processes. In Part 3, you will explore App Lab and have the chance to familiarise yourself with the programming environment.
 
 [App Lab](https://code.org/educate/applab){:target="_blank"} is an age-appropriate, block-based programming tool with which students will create their own app. App Lab is developed in JavaScript, offering students the opportunity to go on to text-based programming in the future.
 
