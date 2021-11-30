@@ -12,7 +12,7 @@ Students will need to complete the pre- and post-surveys online. Each student wi
 
 You may need to take some time to read the questions out for students who have difficulty reading them independently, but please ensure that students answer them on their own, in their own words. Try not to lead students to a particular response while helping them to understand the questions.
 
-Survey questions are answered with reference to a four-point Likert scale ranging from 1 = Strongly disagree to 4 = Strongly agree and are related to students' attitudes and engagement with computing.
+Survey questions are answered with reference to a four-point Likert scale ranging from 1 = Strongly disagree to 4 = Strongly agree, and are related to students' attitudes and engagement with computing.
 
 During the trial, you may be contacted by our colleagues in the Behavioural Insights Team, who may wish to ask you some questions about participating in the trial, which is separate from the survey data. Please do respond to them to help us better understand your experience of the research programme.
 
